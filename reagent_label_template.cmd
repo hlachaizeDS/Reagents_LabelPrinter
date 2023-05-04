@@ -1,0 +1,24 @@
+^Q70,3
+^W40
+^H6
+^P1
+^S6
+^AD
+^C1
+^R0
+~Q+0
+^O0
+^D0
+^E16
+~R255
+^L
+Dy2-me-dd
+Th:m:s
+Dy2-me-dd
+Th:m:s
+AH,253,60,1,1,0,1,$reagent_type
+AC,122,50,1,1,0,1,$full_batch_name
+AC,88,48,1,1,0,1,Bottle $bottle_number
+W152,376,5,2,M0,8,5,$qr_length,0
+$qr_content
+E
